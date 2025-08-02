@@ -1,7 +1,7 @@
 # Secure VPC with Bastion Host, NAT Gateway, and S3 Integration
 [![View on GitHub](https://img.shields.io/badge/GitHub-Secure_VPC_Project-blue?logo=github)](https://github.com/sravan-kumarc/secure-vpc-bastion-nat-s3)
 
-
+NOTE - All Resources & IPS DESTROYED
 This repository provides a Terraform configuration to deploy a secure AWS Virtual Private Cloud (VPC) architecture with public and private subnets, a bastion host for secure access, a NAT Gateway for outbound traffic, and an S3 bucket for storage. The setup follows AWS best practices for security and scalability, ensuring a robust infrastructure for production environments.
 
 ## Table of Contents
