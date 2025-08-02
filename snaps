@@ -1,8 +1,0 @@
-sravan@sravankumar:~/terraform/bastion$ scp -i "jenQ.pem" jenQ.pem ubuntu@52.32.227.13:/home/ubuntu/jenQ.pem
-The authenticity of host '52.32.227.13 (52.32.227.13)' can't be established.
-ED25519 key fingerprint is SHA256:pSrrygHCeK5rwvfDAOx6Pp9BW5kztJIsWPVlk08ROH4.
-This host key is known by the following other names/addresses:
-    ~/.ssh/known_hosts:15: [hashed name]
-Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
-Warning: Permanently added '52.32.227.13' (ED25519) to the list of known hosts.
-jenQ.pem                                            100% 1678     7.0KB/s   00:00    
